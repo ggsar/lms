@@ -8,7 +8,7 @@ Informasi mengenai cara untuk memperbaharui profil dan password tersedia di hala
 
 Untuk membuka halaman profil, klik foto profil anda di sebelah kanan atas dan pilih **Profil**.  
 
-|![image](/img/login/logout.png){:width="200px"}|
+|![image](/lms/img/login/logout.png){:width="200px"}|
 | :---: |  
 | Membuka profil |
 
@@ -33,13 +33,13 @@ Kemudian pilih kolom profil yang akan anda edit.
 
 Klik foto profil anda di sebelah kanan atas dan pilih **Preferences**.  
 
-|![image](/img/login/logout.png){:width="200px"}|
+|![image](/lms/img/login/logout.png){:width="200px"}|
 | :---: |  
 | Buka preferences |
 
 Pada bagian User Account, pilih **Change Password**.
 
-|![image](/img/profil/changepw.png){:max-width="300px"}|
+|![image](/lms/img/profil/changepw.png){:max-width="300px"}|
 | :---: |  
 | Ganti password |
 
