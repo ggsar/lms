@@ -22,7 +22,7 @@ Course anda dapat diakses melalui dashboard. Pada block Course Overview, akan mu
 ## Log out dari LMS
 Untuk keluar LMS, klik foto profil anda di sebelah kanan atas dan pilih **Log out**.  
 
-|![image](/img/login/logout.png){:width="200px"}|
+|![image](/lms/img/login/logout.png){:width="200px"}|
 | :---: |  
 | Tombol log out |
 

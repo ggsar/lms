@@ -17,7 +17,7 @@ Jika anda lupa password anda, ikuti langkah untuk mereset password anda berikut 
 4. Jika anda tidak menemukan email reset password di inbox anda, cobalah cek di folder spam.
 5. Email berisi link dan panduan untuk reset password LMS anda. Silahkan klik pada link yang tersedia untuk menuju halaman reset password.
 
-    |![image](/img/lupapw/email.png){:width="600px"}|
+    |![image](/lms/img/lupapw/email.png){:width="600px"}|
     | :---: |  
     | Email reset password |
 

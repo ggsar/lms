@@ -18,7 +18,7 @@ Untuk membuka halaman profil, klik foto profil anda di sebelah kanan atas dan pi
 
 Pada halaman profil, pilih edit profil.
 
-|![image](/img/profil/btn_editprofil.png){:max-width="600px"}|
+|![image](/lms/img/profil/btn_editprofil.png){:max-width="600px"}|
 | :---: |  
 | Edit profil |
 

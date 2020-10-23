@@ -6,11 +6,11 @@ Anda dapat menambahkan berkas di folder materi pembelajaran di course.
 
 ## Membuat folder mata kuliah
 
-1. Di halaman course, klik tombol **Turn Editing On** di kanan atas ![image](/img/course/turn.png){width="100px"}.
-2. Di halaman course, di bagian Pertemuan 1 - 14 (Disesuaikan dengan kebutuhan) klik **Add an activity or resource** ![image](/img/aktres/add.png){width="150px"}.
+1. Di halaman course, klik tombol **Turn Editing On** di kanan atas ![image](/lms/img/course/turn.png){width="100px"}.
+2. Di halaman course, di bagian Pertemuan 1 - 14 (Disesuaikan dengan kebutuhan) klik **Add an activity or resource** ![image](/lms/img/aktres/add.png){width="150px"}.
 3. Akan muncul pop up jendela untuk memilih aktivitas dan resource yang dibutuhkan.
 
-    | ![image](/img/aktres/popup.png){:width=350px} |
+    | ![image](/lms/img/aktres/popup.png){:width=350px} |
     | :---------: |
     | Pop up untuk menambah aktivitas dan resource |
 
@@ -24,13 +24,13 @@ Pada halaman course, pilih **Fodler mata kuliah**.
 
 Klik ikon gerigi di kanan atas dan pilih **Edit Setting**.
 
-| ![image](/img/folder/editsetting.png){:max-width=400px} |
+| ![image](/lms/img/folder/editsetting.png){:max-width=400px} |
 | :---------: |
 | Edit setting |
 
 Kemudian pada bagian content pilih **add file** dan pilih berkas dari komputer anda.
 
-| ![image](/img/folder/content.png){:max-width=600px} |
+| ![image](/lms/img/folder/content.png){:max-width=600px} |
 | :---------: |
 | Add file |
 
