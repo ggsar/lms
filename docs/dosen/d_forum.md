@@ -24,18 +24,18 @@ Terdapat 5 jenis forum yang masing-masing memiliki struktur diskusi berbeda. Tab
 
 ## Membuat forum
 
-1. Di halaman course, klik tombol **Turn Editing On** di kanan atas ![image](/img/course/turn.png){width="100px"}.
-2. Di halaman course, di bagian Pertemuan 1 - 14 (Disesuaikan dengan kebutuhan) klik **Add an activity or resource** ![image](/img/aktres/add.png){width="150px"}.
+1. Di halaman course, klik tombol **Turn Editing On** di kanan atas ![image](/lms/img/course/turn.png){width="100px"}.
+2. Di halaman course, di bagian Pertemuan 1 - 14 (Disesuaikan dengan kebutuhan) klik **Add an activity or resource** ![image](/lms/img/aktres/add.png){width="150px"}.
 3. Akan muncul pop up jendela untuk memilih aktivitas dan resource yang dibutuhkan.
 
-    | ![image](/img/aktres/popup.png){:width=350px} |
+    | ![image](/lms/img/aktres/popup.png){:width=350px} |
     | :---------: |
     | Pop up untuk menambah aktivitas dan resource |
 
 4. Pilih **Forum**.
 5. Di halaman **Adding a new forum**, bagian **General** isilah:
 
-    | ![image](/img/forum/general.png){:max-width=600px} |
+    | ![image](/lms/img/forum/general.png){:max-width=600px} |
     | :---------: |
     | Forum Setting |
 
@@ -44,13 +44,13 @@ Terdapat 5 jenis forum yang masing-masing memiliki struktur diskusi berbeda. Tab
     * Pilih kotak centang Display description jika Anda ingin teks yang Anda masukkan dalam Deskripsi ditampilkan di halaman course di bawah link forum.
     * Di Forum type, pilih jenis forum. Secara default yang digunakan adalah **Standar forum for general use**. [ Klik untuk menuju penjelasan mengenai jenis forum](#jenis-forum)
 
-        | ![image](/img/forum/forumtype.png){:width=500px} |
+        | ![image](/lms/img/forum/forumtype.png){:width=500px} |
         | :---------: |
         | Jenis forum |
 
 6. Pada bagian **Availability** isilah:
 
-    | ![image](/img/forum/availability.png){:max-width=600px} |
+    | ![image](/lms/img/forum/availability.png){:max-width=600px} |
     | :---------: |
     | Forum Setting |
 
@@ -59,7 +59,7 @@ Terdapat 5 jenis forum yang masing-masing memiliki struktur diskusi berbeda. Tab
 
 7. Pada bagian **Under Attachments and word count** isilah:
 
-    | ![image](/img/forum/attachments.png){:max-width=400px} |
+    | ![image](/lms/img/forum/attachments.png){:max-width=400px} |
     | :---------: |
     | Forum Setting |
 
@@ -69,7 +69,7 @@ Terdapat 5 jenis forum yang masing-masing memiliki struktur diskusi berbeda. Tab
 
 8. Pada bagian **Subscription and tracking** isilah:
 
-    | ![image](/img/forum/subscribe.png){:width=400px} |
+    | ![image](/lms/img/forum/subscribe.png){:width=400px} |
     | :---------: |
     | Forum Setting |
 
@@ -81,14 +81,14 @@ Terdapat 5 jenis forum yang masing-masing memiliki struktur diskusi berbeda. Tab
 
 9. Pada bagian **Discussion Locking**, dosen dapat memilih apakah sebuah forum dapat terkunci otomatis jika tidak ada posting baru dalam jangka waktu tertentu. Pada bangin **Post threshold for blocking**, dosen dapat memilih apakah ada jumlah posting maksimal untuk mahasiswa.
 
-    | ![image](/img/forum/dislock.png){:width=400px} |
+    | ![image](/lms/img/forum/dislock.png){:width=400px} |
     | :---------: |
     | Forum Setting |
 
 10. Bagian lain biarkan terisi default.
 11. Klik **Save and return** untuk melihat aktivitas baru dalam daftar konten pada halaman beranda course, atau **Save and display** untuk melihat aktivitas tersebut.
 
-    | ![image](/img/aktres/save.png){:width=400px} |
+    | ![image](/lms/img/aktres/save.png){:width=400px} |
     | :---------: |
     | Tombol simpan |
 
@@ -98,18 +98,18 @@ Terdapat 5 jenis forum yang masing-masing memiliki struktur diskusi berbeda. Tab
 
 Setelah anda berhasil membuat forum, anda dapat memulai sebuah diskusi. Ikuti langka berikut:
 
-1. Klik ![image](/img/forum/klikforum.png){:width=200px} forum yang sudah anda buat untuk membuka halaman forum.
-2. Pada sebelah kanan atas, klik tombol ![image](/img/forum/adddis.png){:width=200px}
+1. Klik ![image](/lms/img/forum/klikforum.png){:width=200px} forum yang sudah anda buat untuk membuka halaman forum.
+2. Pada sebelah kanan atas, klik tombol ![image](/lms/img/forum/adddis.png){:width=200px}
 3. akan muncul kolom baru untuk menentukan judul dan isi diskusi.
 
-    | ![image](/img/forum/adddisfull.png){:width=600px} |
+    | ![image](/lms/img/forum/adddisfull.png){:width=600px} |
     | :---------: |
     | Tambah diskusi |
 
-4. Klik tombol ![image](/img/forum/posttoforum.png){:width=150px} untuk menambahkan diskusi ke forum.
+4. Klik tombol ![image](/lms/img/forum/posttoforum.png){:width=150px} untuk menambahkan diskusi ke forum.
 5. Diskusi anda akan muncul di halaman forum.
 
-    | ![image](/img/forum/diskusi.png){:max-width=600px} |
+    | ![image](/lms/img/forum/diskusi.png){:max-width=600px} |
     | :---------: |
     | Diskusi |
 
@@ -121,19 +121,19 @@ Setelah anda berhasil membuat forum, anda dapat memulai sebuah diskusi. Ikuti la
 
 1. Klik pada diskusi yang anda ingin balas.
 
-    | ![image](/img/forum/diskusi.png){:max-width=600px} |
+    | ![image](/lms/img/forum/diskusi.png){:max-width=600px} |
     | :---------: |
     | Diskusi |
 
 2. Pada halaman diskusi klik tombol **reply** di sebelah kanan bawah dan tulis tanggapan anda atas diskusi tersebut. Klik **Submit** untuk post balasan anda.
 
-    | ![image](/img/forum/replydelete.png){:max-width=250px} |
+    | ![image](/lms/img/forum/replydelete.png){:max-width=250px} |
     | :---------: |
     | Balas diskusi |
 
 3. Balasan anda akan muncul di bawah diskusi tersebut.
 
-    | ![image](/img/forum/reply.png){:max-width=450px} |
+    | ![image](/lms/img/forum/reply.png){:max-width=450px} |
     | :---------: |
     | Balasan diskusi |
 
@@ -145,19 +145,19 @@ Setelah anda berhasil membuat forum, anda dapat memulai sebuah diskusi. Ikuti la
 
 1. Klik pada diskusi yang anda ingin hapus.
 
-    | ![image](/img/forum/diskusi.png){:max-width=600px} |
+    | ![image](/lms/img/forum/diskusi.png){:max-width=600px} |
     | :---------: |
     | Diskusi |
 
 2. Pada halaman diskusi klik tombol **Delete** di sebelah kanan bawah.
 
-    | ![image](/img/forum/replydelete.png){:max-width=250px} |
+    | ![image](/lms/img/forum/replydelete.png){:max-width=250px} |
     | :---------: |
     | Balas diskusi |
 
 3. Pada konfirmasi hapus, pilih **Continue**.
 
-    | ![image](/img/forum/delete.png){:max-width=400px} |
+    | ![image](/lms/img/forum/delete.png){:max-width=400px} |
     | :---------: |
     | Hapus diskusi |
 

@@ -10,7 +10,7 @@ Dosen dan mahasiswa dapat menggunakan blok course overview di tengah dashboard L
     **Hukum Perusahaan - D3Manset 306**  
     Ini menunjukan course mata kuliah Hukum Perpajakan untuk prodi D3 Manajemen Aset kelas 306
 
-|![image](/img/dashboard/overview.png){:width="600px"}|
+|![image](/lms/img/dashboard/overview.png){:width="600px"}|
 | :---: |  
 | Tampilan blok course overview |
 
@@ -32,7 +32,7 @@ Semua course LMS memiliki tanggal mulai dan berakhir. Jika tidak diperbarui, tan
 
 Blok Timeline memberikan gambaran tenggat waktu pada suatu aktivitas di course yang anda ikuti. Tenggat waktu dapat diurutkan berdasarkan tanggal jatuh tempo.
 
-|![image](/img/dashboard/timeline.png){:width="350px"}|
+|![image](/lms/img/dashboard/timeline.png){:width="350px"}|
 | :---: |  
 | Tampilan blok timeline |
 
@@ -42,7 +42,7 @@ Blok Timeline memberikan gambaran tenggat waktu pada suatu aktivitas di course y
 
 Menampilkan kalender dalam satu bulan. Terdapat tanda pada tanggal yang menunjukan tanggal jatuh tempo dari suatu aktivitas di course yang anda ikuti.
 
-|![image](/img/dashboard/kalender.png){:width="350px"}|
+|![image](/lms/img/dashboard/kalender.png){:width="350px"}|
 | :---: |  
 | Tampilan blok kalender |
 
@@ -51,7 +51,7 @@ Menampilkan kalender dalam satu bulan. Terdapat tanda pada tanggal yang menunjuk
 ## Panel navigasi
 
 Panel navigasi adalah menu yang memungkinkan Anda untuk berpindah antar halaman secara cepat. 
-Untuk membuka dan menutup panel navigasi, pilih toggle panel navigasi (ikon hamburger),![image](/img/dashboard/hamburger.png) di kiri atas). Klik ikon hamburger untuk membuka panel navigasi atau menutupnya agar tampilan halaman anda lebih luas.
+Untuk membuka dan menutup panel navigasi, pilih toggle panel navigasi (ikon hamburger),![image](/lms/img/dashboard/hamburger.png) di kiri atas). Klik ikon hamburger untuk membuka panel navigasi atau menutupnya agar tampilan halaman anda lebih luas.
 
 | Menu | Deskripsi |
 | ---- | --------- |

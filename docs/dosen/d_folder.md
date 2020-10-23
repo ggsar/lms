@@ -8,19 +8,19 @@ Anda dapat menambahkan berkas di folder materi pembelajaran di course.
 
 Pada halaman course, pilih **Materi Pembelajaran**.
 
-| ![image](/img/bbb/onlinemeeting.png){:width=350px} |
+| ![image](/lms/img/bbb/onlinemeeting.png){:width=350px} |
 | :---------: |
 | Online meeting |
 
 Klik ikon gerigi di kanan atas dan pilih **Edit Setting**.
 
-| ![image](/img/folder/editsetting.png){:max-width=400px} |
+| ![image](/lms/img/folder/editsetting.png){:max-width=400px} |
 | :---------: |
 | Edit setting |
 
 Kemudian pada bagian content pilih **add file** dan pilih berkas dari komputer anda.
 
-| ![image](/img/folder/content.png){:max-width=600px} |
+| ![image](/lms/img/folder/content.png){:max-width=600px} |
 | :---------: |
 | Add file |
 

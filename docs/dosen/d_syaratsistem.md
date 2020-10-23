@@ -62,9 +62,9 @@ Pada firewall, pastikan Anda mengaktifkan pengunggahan file.
 
 ## Syarat khusus BigBlueButton
 
-Jika anda akan menggunakan fitur online meeting BigBlueButton, anda wajib memiliki perangkat microphone dan webcam yang mendukung. Anda juga harus mengizinkan LMS untuk mengakses microphone dan webcam anda dengan mengklik tanda kunci ![image](/img/bbb/key.png){width="100px"} di sebelah kiri address bar browser dan pilih **allow access**.
+Jika anda akan menggunakan fitur online meeting BigBlueButton, anda wajib memiliki perangkat microphone dan webcam yang mendukung. Anda juga harus mengizinkan LMS untuk mengakses microphone dan webcam anda dengan mengklik tanda kunci ![image](/lms/img/bbb/key.png){width="100px"} di sebelah kiri address bar browser dan pilih **allow access**.
 
-| ![image](/img/bbb/all_allow.png){:max-width=500px} |
+| ![image](/lms/img/bbb/all_allow.png){:max-width=500px} |
 | :---------: |
 | Mengizinkan akses microphone dan webcam |
 

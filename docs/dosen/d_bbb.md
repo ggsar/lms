@@ -8,7 +8,7 @@ Anda dapat memanfaatkan fitur BigBlueButton untuk aktivitas online meeting.
 
 Pada halaman course, pilih **Online Meeting**.
 
-| ![image](/img/bbb/onlinemeeting.png){:width=350px} |
+| ![image](/lms/img/bbb/onlinemeeting.png){:width=350px} |
 | :---------: |
 | Online meeting |
 
